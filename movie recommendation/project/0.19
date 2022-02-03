@@ -1,0 +1,10 @@
+Collecting pandas
+  Downloading pandas-1.3.1-cp39-cp39-win_amd64.whl (10.4 MB)
+Requirement already satisfied: numpy>=1.17.3 in c:\users\anurag pal\appdata\local\programs\python\python39\lib\site-packages (from pandas) (1.21.1)
+Collecting python-dateutil>=2.7.3
+  Downloading python_dateutil-2.8.2-py2.py3-none-any.whl (247 kB)
+Collecting pytz>=2017.3
+  Using cached pytz-2021.1-py2.py3-none-any.whl (510 kB)
+Collecting six>=1.5
+  Using cached six-1.16.0-py2.py3-none-any.whl (11 kB)
+Installing collected packages: six, pytz, python-dateutil, pandas
